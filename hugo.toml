@@ -1,4 +1,4 @@
-baseURL = 'https://matn.eu/'
+baseURL = 'https://www.matn.eu/'
 title = "matn Hugo"
 theme = "lightbi-hugo"
 
